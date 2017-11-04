@@ -1,0 +1,25 @@
+type project
+title
+    TestDependentTypes
+owners
+    Jack Fox
+authors 
+    Jack Fox
+projectUrl
+    https://github.com/jackfoxy/TestDependentTypes
+iconUrl
+    https://raw.githubusercontent.com/jackfoxy/TestDependentTypes/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/jackfoxy/TestDependentTypes/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    TestDependentTypes
+summary
+    Personal Server
+description
+    Personal Server, your interface to the world
+
+

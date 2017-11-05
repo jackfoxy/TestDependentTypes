@@ -1,6 +1,6 @@
 # TestDependentTypes
 
-Experiments in F# dependent types based on the [article by Robert Kuzelj](https://robkuz.github.io/Limited-Values/) and [discession](https://github.com/robkuz/robkuz.github.io/issues/6)
+Experiments in F# dependent types based on the [article by Robert Kuzelj](https://robkuz.github.io/Limited-Values/) and [discussion](https://github.com/robkuz/robkuz.github.io/issues/6)
 
 ## But these aren't dependent types!
 
